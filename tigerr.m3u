@@ -102,3 +102,27 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 http://103.205.133.20/hls/sangeetbangla.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",ZOOM
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",ABP Hindi
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",And TV
+http://103.205.133.20/hls/andtv.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Colours HD
+http://208.115.215.42/Colors_TV_HD/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",India TV News
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",NDTV 24/7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Entertainment
+http://103.205.133.20/hls/chs.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Sab
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",StarPlus
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Zee TV
+http://103.205.133.20/hls/zeetv.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Zee Saalam
+http://103.205.133.20/hls/zeesalaam.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Hindi",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
