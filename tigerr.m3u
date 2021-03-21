@@ -82,3 +82,23 @@ http://103.205.133.20/hls/chsj.m3u8
 http://103.205.133.20/hls/zeebangla.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Zee Bangla Cinema
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Music",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",9X Jahkaas
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",Bangla Talkies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Music",Doom Music
+http://103.205.133.20/hls/dhoommusic.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",Gaan Bangla
+http://103.205.133.20/hls/gaanbangla.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",RTV Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",Sangeet Bangla
+http://103.205.133.20/hls/sangeetbangla.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Music",ZOOM
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
