@@ -148,3 +148,15 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="English",Al Jajeera 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="English",BBC World
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="English",DW TV
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="English",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="English",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="English",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
