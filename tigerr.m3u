@@ -126,3 +126,23 @@ http://103.205.133.20/hls/zeetv.m3u8
 http://103.205.133.20/hls/zeesalaam.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",And Pictures HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Dabaang TV
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",ManoRanjan Movies 
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Ristey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Sony Max
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Wow Cinema
+http://103.205.133.20/hls/wowcinema.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Action
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Bioscope
+http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
