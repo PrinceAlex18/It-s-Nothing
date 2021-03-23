@@ -67,23 +67,23 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Sony Aath
-http://tvserver3.roarzone.info:25461/live/free/roarzone/33.m3u8
+http://tvserver3.roarzone.info:25461/live/thuder/roarzone/33.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Star Jolsha
-http://tvserver3.roarzone.info:25461/live/free/roarzone/30.m3u8
+http://tvserver3.roarzone.info:25461/live/thuder/roarzone/30.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Zee Bangla HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/34.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Zee Bangla Cinema
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/29.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",9X Jahkaas
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/99.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",Bangla Talkies
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/91.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",Doom Music
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/57.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",Gaan Bangla
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",Music India
@@ -93,7 +93,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",ZOOM
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/60.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",ABP Hindi
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Aaj Tak
@@ -105,17 +105,17 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/38.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/38.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Sab
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/36.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",StarPlus
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/67.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Zee TV HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/40.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/40.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",And Pictures HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/100.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Dabaang TV
@@ -125,11 +125,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Ristey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Sony Max
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/77.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Action
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/90.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
@@ -147,7 +147,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",And Flix
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/78.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/78.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",And Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Blue Ant Ent. 
@@ -155,4 +155,4 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Sony Pix
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/41.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
