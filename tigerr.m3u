@@ -156,3 +156,13 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Sony Pix
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Animax
+http://45.126.83.51/session/cd3aa82e-05ac-11eb-b93e-9207a6c72062/dr9445/h/h144/01.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Aniplus
+http://210.210.155.35/session/15797d34-8642-11eb-8961-840187cb837d/dr9445/h/h02/01.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Baby 1st
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Cartoon Network Hindi
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Nick Bangla
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8 
