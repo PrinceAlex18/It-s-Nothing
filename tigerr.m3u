@@ -166,3 +166,43 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Kids",Nick Bangla
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports", Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Ad Sports 3
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Bein Sports Xtra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",BT Sports 
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Edge Sports
+https://edgesport-samsungus.amagi.tv/playlist.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Espn U
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",FCB Live
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Fox Sports
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 1
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/20.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 2
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/21.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 3
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/22.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Six
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/24.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Star Sports 1 Hd
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/25.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports", Star Sports 2 Hd
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/26.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",T Sports
+http://103.102.136.106:8080/cmcltv/tsports.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Sports",PTV sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
