@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://botallen.live/epg.xml" url-tvg="https://botallen.live/epg.xml"
+#EXTM3U
 
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Bangla",Alif TV HD
 http://128.199.212.160/alif/1080/index.m3u8 
