@@ -74,35 +74,35 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/30.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/34.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Kolkata",Zee Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/29.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Music",9XM
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Music",9X Jalwa
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Music",9X Jahkaas
+#EXTINF:- 1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/04/9X-jhakaas-logo.jpg" group-title="Music",9X Jahkaas
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/99.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",Bangla Talkies
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/91.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Music",Doom Music
+#EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg" group-title="Music",Doom Music
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/57.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Music",Gaan Bangla
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Music",Gaan Bangla
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Music",Music India
+#EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Music",Mastii
+#EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWvxXb2h_FMAYhpqb248m2TYaXlAA4LqisuUrkOgndkbFAbkeo&usqp=CAU" group-title="Music",Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Music",RTV Music
+#EXTINF:- 1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Music",RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Music",ZOOM
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/60.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",ABP Hindi
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/MBM0C9H/ABP-News-Logo.png" group-title="Hindi",ABP Hindi
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Aaj Tak
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/gFzRFsy/unnamed.jpg" group-title="Hindi",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Colours HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",India TV News
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/tY3xdB1/images-47.jpg" group-title="Hindi",India TV News
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",NDTV 24/7
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/8rp1J9t/images-48.jpg" group-title="Hindi",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/38.m3u8 
@@ -118,7 +118,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/100.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Dabaang TV
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/7V0CL3z/images-49.jpg" group-title="Hindi Movies",Dabaang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",ManoRanjan Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8 
@@ -130,7 +130,7 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/77.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Action
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/90.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Bioscope
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/nrB4xdq/images-50.jpg" group-title="Hindi Movies",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
@@ -138,7 +138,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="English",BBC World
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="English",DW TV
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/MR6ygg5/1200px-Deutsche-Welle-symbol-2012-svg.webp" group-title="English",DW TV
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="English",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
