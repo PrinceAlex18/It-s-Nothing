@@ -167,7 +167,9 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
 #EXTINF:- 1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1535015121_eVeiVr_Discovery_kids_logo.jpg" group-title="Kids",Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8 
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick Bangla
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8 
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Kids",Sony YaY
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports", Ad Sports 2
