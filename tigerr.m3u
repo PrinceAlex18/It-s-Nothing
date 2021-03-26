@@ -190,8 +190,6 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8 
-#EXTINF:- 1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="Sports",Sky Sports Cricket
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SkySPCricUK.m3u8
 #EXTINF:- 1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/20.m3u8
 #EXTINF:- 1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2
@@ -201,17 +199,17 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/22.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/24.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1 Hd
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSP01HD.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/25.m3u8
 #EXTINF:- 1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 Hd
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/26.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports SD
+http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:- 1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/WillowTV.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8 
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
