@@ -205,9 +205,9 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/26.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://103.102.136.106:8080/cmcltv/tsports.m3u8
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/102.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports SD
-http://209.126.120.153/hls/tsports.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
