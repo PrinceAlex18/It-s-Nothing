@@ -206,3 +206,23 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8 
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:- 1 tvg-logo="" group-title="Documentary",Investigation Discovery
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/43.m3u8 
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Hindi
+http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8 
+#EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentary",Discovery Science
+http://itvorigin.multitvsolution.com/idvo/discoversciencehindi_360p/index.m3u8 
+#EXTINF:- 1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentary",Discovery Turbo
+https://itvorigin.multitvsolution.com/idvo/turboeng_360p/index.m3u8
+#EXTINF:- 1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentary",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:- 1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/7/7146.1525122979.png" group-title="Documentary",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Documentary",Wild Life
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8 
