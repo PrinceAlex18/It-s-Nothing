@@ -98,45 +98,45 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/60.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/gFzRFsy/unnamed.jpg" group-title="Hindi",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Colours HD
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi",Colours HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/tY3xdB1/images-47.jpg" group-title="Hindi",India TV News
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/8rp1J9t/images-48.jpg" group-title="Hindi",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
+#EXTINF:- 1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony Entertainment HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/38.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Sony Sab
+#EXTINF:- 1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1113.1408037133.png" group-title="Hindi",Sony Sab
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/36.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",StarPlus
+#EXTINF:- 1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="Hindi",StarPlus
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/67.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Zee TV HD
+#EXTINF:- 1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/40.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi",Zing
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",And Pictures HD
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies",And Pictures HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/100.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Bflix Movies
+#EXTINF:- 1 tvg-logo="https://megaflix.tv/uploads/tv_image/sm/bflix-movie.png" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/7V0CL3z/images-49.jpg" group-title="Hindi Movies",Dabaang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",ManoRanjan Movies 
+#EXTINF:- 1 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="Hindi Movies",ManoRanjan Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Ristey Cineplex
+#EXTINF:- 1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi Movies",Ristey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Sony Max
+#EXTINF:- 1 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi Movies",Sony Max
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/77.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Wow Cinema
+#EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Wow_Cinema.jpg" group-title="Hindi Movies",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Action
+#EXTINF:- 1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi Movies",Zee Action
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/90.m3u8
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/nrB4xdq/images-50.jpg" group-title="Hindi Movies",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:- 1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi Movies",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="English",Al Jajeera 
+#EXTINF:- 1 tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg" group-title="English",Al Jajeera 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="English",BBC World
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="English",BBC World
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/MR6ygg5/1200px-Deutsche-Welle-symbol-2012-svg.webp" group-title="English",DW TV
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
@@ -146,41 +146,43 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="English Movies",And Flix
+#EXTINF:- 1 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="English Movies",And Flix
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/78.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="English Movies",And Prive
+#EXTINF:- 1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="English Movies",And Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:- 1 tvg-logo="" group-title="English Movies",Blue Ant Ent. 
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English Movies",Blue Ant Ent. 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="English Movies",Sony Pix
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies",Sony Pix
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kids",Animax
 http://45.126.83.51/session/cd3aa82e-05ac-11eb-b93e-9207a6c72062/dr9445/h/h144/01.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Kids",Aniplus
-http://210.210.155.35/session/15797d34-8642-11eb-8961-840187cb837d/dr9445/h/h02/01.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Kids",Baby 1st
+#EXTINF:- 1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="Kids",Aniplus
+http://210.210.155.35/dr9445/h/h02/02.m3u8
+#EXTINF:- 1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby 1st
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Kids",Cartoon Network Hindi
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Kids",Nick Bangla
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network Hindi
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
+#EXTINF:- 1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1535015121_eVeiVr_Discovery_kids_logo.jpg" group-title="Kids",Discovery Kids
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8 
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick Bangla
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Ad Sports 1
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports", Ad Sports 2
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports", Ad Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Ad Sports 3
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports",Ad Sports 3
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Bein Sports Xtra
+#EXTINF:- 1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Sports",BT Sports 
+#EXTINF:- 1 tvg-logo="https://streamwink.com/wp-content/uploads/bt-sport-1.jpg" group-title="Sports",BT Sports HD 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Edge Sports
+#EXTINF:- 1 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",Edge Sports
 https://edgesport-samsungus.amagi.tv/playlist.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Espn U
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="Sports",Espn U
 https://gma2.blab.email/espnu.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Sports",FCB Live
+#EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-VkQ2htIclLyzQ5UZsgtVpVhBkD-daAqDTw&usqp=CAU" group-title="Sports",FCB Live
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8 
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8 
@@ -188,24 +190,28 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8 
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 1
+#EXTINF:- 1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="Sports",Sky Sports Cricket
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SkySPCricUK.m3u8
+#EXTINF:- 1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/20.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 2
+#EXTINF:- 1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/21.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Ten 3
+#EXTINF:- 1 tvg-logo="https://i.pinimg.com/originals/96/84/c2/9684c2fc0f499b7a56189a7ca06fffc9.png" group-title="Sports",Sony Ten 3
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/22.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Sony Six
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/24.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Star Sports 1 Hd
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/25.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports", Star Sports 2 Hd
+#EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1 Hd
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSP01HD.m3u8
+#EXTINF:- 1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 Hd
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/26.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",T Sports
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
-#EXTINF:- 1 tvg-logo="" group-title="Sports",PTV sports
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:- 1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/WillowTV.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8 
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
