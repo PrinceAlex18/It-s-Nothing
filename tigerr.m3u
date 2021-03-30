@@ -243,7 +243,7 @@ http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:- 1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 Hd
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/26.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/27.m3u8
+http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/102.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports SD
