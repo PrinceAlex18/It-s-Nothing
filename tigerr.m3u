@@ -113,17 +113,17 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/8rp1J9t/images-48.jpg" group-title="Hindi",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8 
 #EXTINF:- 1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony Entertainment HD
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/38.m3u8 
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/471 
 #EXTINF:- 1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1113.1408037133.png" group-title="Hindi",Sony Sab
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/36.m3u8 
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/224 
 #EXTINF:- 1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="Hindi",StarPlus
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/67.m3u8 
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/634.ts 
 #EXTINF:- 1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/40.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies",And Pictures HD
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/100.m3u8 
+ http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/7
 #EXTINF:- 1 tvg-logo="https://megaflix.tv/uploads/tv_image/sm/bflix-movie.png" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:- 1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Hindi Movies",Colours Cineplex
@@ -137,7 +137,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:- 1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi Movies",Ristey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
 #EXTINF:- 1 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi Movies",Sony Max
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/77.m3u8 
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/225
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",STAR GOLD 2
 http://4kiptv.vip:25461/9za5XfvrPCpOLpH/BfJZkp8nHg/96343
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Wow_Cinema.jpg" group-title="Hindi Movies",Wow Cinema
@@ -175,7 +175,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="English Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies",Sony Pix
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/46
 #EXTINF:-1 tvg-logo="" group-title="English Movies",STAR MOVIES HD
 http://4kiptv.vip:25461/9za5XfvrPCpOLpH/BfJZkp8nHg/93668
 #EXTINF:- 1 tvg-logo="" group-title="Kids",Animax
@@ -233,11 +233,11 @@ http://teslagram.com/live/channel_630.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Redbull tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:- 1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/20.m3u8
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/59.ts
 #EXTINF:- 1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/21.m3u8
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/60.ts
 #EXTINF:- 1 tvg-logo="https://i.pinimg.com/originals/96/84/c2/9684c2fc0f499b7a56189a7ca06fffc9.png" group-title="Sports",Sony Ten 3
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/22.m3u8
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/61.ts
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten1(BackUp) 
@@ -275,9 +275,9 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/102.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports SD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Ten Sports 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223.ts
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Wilow HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222.ts
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
@@ -291,7 +291,7 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/43.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Hindi
 http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8 
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentary",Discovery Science
-http://itvorigin.multitvsolution.com/idvo/discoversciencehindi_360p/index.m3u8 
+http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/950
 #EXTINF:- 1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentary",Discovery Turbo
 https://itvorigin.multitvsolution.com/idvo/turboeng_360p/index.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary",History HD
