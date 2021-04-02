@@ -87,7 +87,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Kolkata",Zee Bangla HD Backup
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Kolkata",Zee Bangla Cinema
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/29.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/mono.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",1 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
@@ -148,12 +148,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
 #EXTINF:- 1 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi Movies",Sony Max
 http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/225
+http://208.115.215.42/SonY_Max_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",STAR GOLD 2
 http://4kiptv.vip:25461/9za5XfvrPCpOLpH/BfJZkp8nHg/96343
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Wow_Cinema.jpg" group-title="Hindi Movies",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:- 1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi Movies",Zee Action
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/90.m3u8
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/nrB4xdq/images-50.jpg" group-title="Hindi Movies",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8 
 #EXTINF:- 1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi Movies",Zee Cinema HD
