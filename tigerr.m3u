@@ -68,18 +68,24 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Kolkata",Jolsha Movies HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/31.m3u8
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Kolkata",Jolsha Movies Backup
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799682
 #EXTINF:- 1 tvg-logo="https://static.bengali.news18.com/static-bengali/2020/03/bangla.png" group-title="Kolkata",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8 
 #EXTINF:- 1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Kolkata",Sony Aath
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/33.m3u8
+#EXTINF:- 1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Kolkata",Sony Aath Backup 
+http://103.205.133.21/hls/sony8.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Kolkata",Star Jolsha
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/30.m3u8
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Kolkata",Star Jolsha Backup
 http://103.205.133.20/hls/chsj.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Kolkata",Sun bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Kolkata",Zee Bangla HD
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/34.m3u8 
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:- 1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Kolkata",Zee Bangla HD Backup
+http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Kolkata",Zee Bangla Cinema
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/29.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Music",1 HD
