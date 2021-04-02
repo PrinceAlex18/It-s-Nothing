@@ -64,6 +64,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/32.m3u8 
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CN_bengali.jpeg" group-title="Kolkata",Kolkata News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Kolkata",Enterr10 Bangla
+http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Kolkata",Jolsha Movies HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/31.m3u8
 #EXTINF:- 1 tvg-logo="https://static.bengali.news18.com/static-bengali/2020/03/bangla.png" group-title="Kolkata",News 18 Bangla
@@ -74,6 +76,8 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/33.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/30.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Kolkata",Star Jolsha Backup
 http://103.205.133.20/hls/chsj.m3u8
+#EXTINF:- 1 tvg-logo="" group-title="Kolkata",Sun bangla
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Kolkata",Zee Bangla HD
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/34.m3u8 
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Kolkata",Zee Bangla Cinema
