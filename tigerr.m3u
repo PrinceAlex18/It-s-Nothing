@@ -243,11 +243,11 @@ http://teslagram.com/live/channel_630.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Redbull tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:- 1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/59.ts
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/TEN1HD.m3u8
 #EXTINF:- 1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/60.ts
+
 #EXTINF:- 1 tvg-logo="https://i.pinimg.com/originals/96/84/c2/9684c2fc0f499b7a56189a7ca06fffc9.png" group-title="Sports",Sony Ten 3
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/61.ts
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/TEN3HD.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten1(BackUp) 
@@ -271,23 +271,17 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:- 1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 Hd
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
-http://43.230.123.21:8080/live/starsportsselect-1.m3u8
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSP01HD.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Sky Cricket 
-http://supersonictv.live:25461/903310/034806/78148
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
-http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png", SKY SPORTS MAIN EVENT
-http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png", SKY SPORTS FOOTBALL
-http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
+
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/102.m3u8
+http://103.205.133.21/hls/tsports.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports SD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Ten Sports 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223.ts
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Wilow HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222.ts
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports",PTV sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
