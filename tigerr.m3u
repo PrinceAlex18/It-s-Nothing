@@ -269,7 +269,7 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sports", SPORT TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:- 1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 Hd
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports Select 1 HD
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSP01HD.m3u8
 #EXTINF:- 1 tvg-logo="" group-title="Sports",Sky Cricket 
